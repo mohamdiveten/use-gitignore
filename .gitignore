@@ -1,1 +1,4 @@
 node_modules/
+z[a-zA-Z]/
+.env
+/artificats/
